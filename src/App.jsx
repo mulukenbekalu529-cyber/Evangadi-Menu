@@ -1,7 +1,8 @@
+
 import React from "react";
 import "./commonResource/style.css";
-import Header from "./components/Header";
-import FoodList from "./components/FoodList";
+import Header from "./Components/Header";
+import FoodList from "./Components/FoodList";
 
 class App extends React.Component {
   render() {
